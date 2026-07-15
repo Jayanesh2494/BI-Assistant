@@ -77,7 +77,7 @@ Select and configure any of the following providers in the application sidebar:
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repository-url>
+git clone (https://github.com/Jayanesh2494/BI-Assistant)
 cd Analyst
 ```
 
